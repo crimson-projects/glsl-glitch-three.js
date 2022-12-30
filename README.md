@@ -4,7 +4,7 @@
 
 ### <a href="">Link</a>
 
-<img src="admin/base.png">
+<img src="admin/base.jpg">
 
 ### by <a href="https://github.com/python019"> SUBUX</a>
 
